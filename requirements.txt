@@ -1,0 +1,7 @@
+pillow 
+ffmpeg-python
+tqdm
+
+opencv-python 
+tk
+
