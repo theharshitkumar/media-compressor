@@ -1,6 +1,7 @@
 input
 .venv
 output
+compression_results.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
